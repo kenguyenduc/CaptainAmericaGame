@@ -1,2 +1,276 @@
-﻿  main.cpp
+﻿  Animation.cpp
+  Bat.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bat.cpp(169): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bat.cpp(186): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bat.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bat.cpp(200): warning C4018: '<': signed/unsigned mismatch
+  BatState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  Boss1.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  Boss1State.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss1state.cpp(76): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss1state.cpp(93): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss1state.cpp(115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss1state.cpp(259): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss1state.cpp(303): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Boss2.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  Boss2State.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss2state.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\boss2state.cpp(94): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bullet.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bullet.cpp(657): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\bullet.cpp(658): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Captain.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(344): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(362): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(363): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(411): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(439): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(501): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captain.cpp(548): warning C4018: '<': signed/unsigned mismatch
+  CaptainState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captainstate.cpp(18): warning C4553: '==': result of expression not used; did you intend '='?
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captainstate.cpp(19): warning C4553: '==': result of expression not used; did you intend '='?
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captainstate.cpp(186): warning C4553: '==': result of expression not used; did you intend '='?
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\captainstate.cpp(203): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CollideEvent.cpp
+  Collision.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\collision.cpp(190): warning C4018: '<': signed/unsigned mismatch
+  Debug.cpp
+  Domesto.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domesto.cpp(148): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domesto.cpp(165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domesto.cpp(166): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DomestoStayState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domestostaystate.cpp(88): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domestostaystate.cpp(107): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  DomestoWalkState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domestowalkstate.cpp(115): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\domestowalkstate.cpp(142): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Elevator.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(89): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(95): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\elevator.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(51): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(192): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(193): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(194): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(195): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(258): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(259): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(260): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.cpp(261): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Gigi.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigi.cpp(122): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigi.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigi.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigi.cpp(153): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  GigiState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigistate.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigistate.cpp(61): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gigistate.cpp(69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Graphics.cpp
+  Grid2.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(165): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(197): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(246): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(257): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(268): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(279): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(290): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(301): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(312): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(328): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(344): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(355): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(394): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(436): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.cpp(455): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\item.cpp(225): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\item.cpp(240): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\item.cpp(241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\item.cpp(257): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\item.cpp(258): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Keyboard.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  LoadTXT.cpp
+  main.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  RedBox.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  RedBoxState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  RunningMan.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\runningman.cpp(145): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\runningman.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\runningman.cpp(163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RunningManState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\runningmanstate.cpp(93): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Shield.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\shield.cpp(29): warning C4305: '=': truncation from 'double' to 'float'
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\shield.cpp(199): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\shield.cpp(209): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\shield.cpp(214): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SpawnProjectTile.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(15): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(31): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(39): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(47): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(63): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\spawnprojecttile.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+  State.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Tank.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  TankState.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+  TileMap2.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\tilemap2.cpp(121): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\tilemap2.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\tilemap2.cpp(178): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\tilemap2.cpp(195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\tilemap2.cpp(196): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TwinBricks.cpp
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\twinbricks.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\twinbricks.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Viewport.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(59): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\gameobject.h(60): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\grid2.h(109): warning C4018: '<': signed/unsigned mismatch
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\viewport.cpp(62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\viewport.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\viewport.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\documents_duc_ke\projectvisualstudio\nhapmonphattriengame\myproject\captainamericagame\captainamericagame\viewport.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
   CaptainAmericaGame.vcxproj -> E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\MyProject\CaptainAmericaGame\Debug\CaptainAmericaGame.exe

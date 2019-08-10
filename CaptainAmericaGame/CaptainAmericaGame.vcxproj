@@ -18,11 +18,95 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Bat.cpp" />
+    <ClCompile Include="BatState.cpp" />
+    <ClCompile Include="Boss1.cpp" />
+    <ClCompile Include="Boss1State.cpp" />
+    <ClCompile Include="Boss2.cpp" />
+    <ClCompile Include="Boss2State.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="Captain.cpp" />
+    <ClCompile Include="CaptainState.cpp" />
+    <ClCompile Include="CollideEvent.cpp" />
+    <ClCompile Include="Collision.cpp" />
+    <ClCompile Include="Debug.cpp" />
+    <ClCompile Include="Domesto.cpp" />
+    <ClCompile Include="DomestoStayState.cpp" />
+    <ClCompile Include="DomestoWalkState.cpp" />
+    <ClCompile Include="Elevator.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Gigi.cpp" />
+    <ClCompile Include="GigiState.cpp" />
+    <ClCompile Include="Graphics.cpp" />
+    <ClCompile Include="Grid2.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Keyboard.cpp" />
+    <ClCompile Include="LoadTXT.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="RedBox.cpp" />
+    <ClCompile Include="RedBoxState.cpp" />
+    <ClCompile Include="RunningMan.cpp" />
+    <ClCompile Include="RunningManState.cpp" />
+    <ClCompile Include="Shield.cpp" />
+    <ClCompile Include="SpawnProjectTile.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="Tank.cpp" />
+    <ClCompile Include="TankState.cpp" />
+    <ClCompile Include="TileMap2.cpp" />
+    <ClCompile Include="TwinBricks.cpp" />
+    <ClCompile Include="Viewport.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Bat.h" />
+    <ClInclude Include="BatState.h" />
+    <ClInclude Include="Boss1.h" />
+    <ClInclude Include="Boss1State.h" />
+    <ClInclude Include="Boss2.h" />
+    <ClInclude Include="Boss2State.h" />
+    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="Captain.h" />
+    <ClInclude Include="CaptainState.h" />
+    <ClInclude Include="CollideEvent.h" />
+    <ClInclude Include="Collision.h" />
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="Debug.h" />
+    <ClInclude Include="Domesto.h" />
+    <ClInclude Include="DomestoStayState.h" />
+    <ClInclude Include="DomestoWalkState.h" />
+    <ClInclude Include="Elevator.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Gigi.h" />
+    <ClInclude Include="GigiState.h" />
+    <ClInclude Include="Graphics.h" />
+    <ClInclude Include="Grid2.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="Keyboard.h" />
+    <ClInclude Include="LoadTXT.h" />
+    <ClInclude Include="RedBox.h" />
+    <ClInclude Include="RedBoxState.h" />
+    <ClInclude Include="RunningMan.h" />
+    <ClInclude Include="RunningManState.h" />
+    <ClInclude Include="Shield.h" />
+    <ClInclude Include="SpawnProjectTile.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="Tank.h" />
+    <ClInclude Include="TankState.h" />
+    <ClInclude Include="TileMap2.h" />
+    <ClInclude Include="TwinBricks.h" />
+    <ClInclude Include="Viewport.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{395331A8-15AE-42EE-B0A7-01C4E3D64560}</ProjectGuid>
     <RootNamespace>CaptainAmericaGame</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -69,7 +153,10 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
-  <PropertyGroup />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -77,6 +164,9 @@
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
+    <Link>
+      <AdditionalDependencies>d3dx9.lib;d3d9.lib;dxguid.lib;dinput8.lib;winmm.lib;dsound.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -114,9 +204,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="main.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

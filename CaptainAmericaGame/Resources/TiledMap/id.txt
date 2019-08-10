@@ -1,0 +1,18 @@
+1: runningman normal
+2: runningman only run
+3: runningman only crouch
+4: domesto stay
+5: domesto walk
+6: redbox
+7: gigi
+8: elevator cirlce
+9: elevator slash
+10: elevator horizontal
+11: tank top
+12: tank bottom
+13: tank left
+14: tank right
+15: bat normal
+16: bat capsule
+17: twin bricks
+18: redbox map 2

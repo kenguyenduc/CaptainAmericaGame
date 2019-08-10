@@ -9,14 +9,279 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="Game">
+      <UniqueIdentifier>{a1d2533e-8565-49af-9c83-c39a326d0c7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{66c8a912-bd09-4b1e-ae54-e485f0777b10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{3010d045-405c-4aed-8ef9-d6533aa6d712}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapLoader">
+      <UniqueIdentifier>{94fd6d02-3781-4c06-a342-200510383843}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{b9e4750a-874c-4f3a-9af6-0a20a5a27cbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Captain">
+      <UniqueIdentifier>{c0829c84-a67b-4177-a5b2-43abdb1a5409}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\GameObjects">
+      <UniqueIdentifier>{1690227c-4d65-43a9-9294-c107d16b34a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Bullet">
+      <UniqueIdentifier>{dfa0f2de-0b1c-4003-8cb0-044b7e651a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\StaticObjects">
+      <UniqueIdentifier>{d0bb230f-3f4a-4912-bba0-8c5704a4a84f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Enemies">
+      <UniqueIdentifier>{13223c74-8963-4445-bf40-f2cb9090c35c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Captain.cpp">
+      <Filter>Objects\Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="CollideEvent.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid2.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadTXT.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="SpawnProjectTile.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap2.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewport.cpp">
+      <Filter>FrameWork</Filter>
+    </ClCompile>
+    <ClCompile Include="CaptainState.cpp">
+      <Filter>Objects\Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Objects\Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="RunningMan.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="RunningManState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Objects\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss1.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss1State.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss2.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss2State.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Objects\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Shield.cpp">
+      <Filter>Objects\Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Objects\Captain</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="TankState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="TwinBricks.cpp">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="RedBoxState.cpp">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="RedBox.cpp">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="GigiState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Gigi.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Elevator.cpp">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="Domesto.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="DomestoStayState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="DomestoWalkState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="BatState.cpp">
+      <Filter>Objects\Enemies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Captain.h">
+      <Filter>Objects\Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="CollideEvent.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid2.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadTXT.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="SpawnProjectTile.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap2.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewport.h">
+      <Filter>FrameWork</Filter>
+    </ClInclude>
+    <ClInclude Include="CaptainState.h">
+      <Filter>Objects\Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Objects\Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="RunningMan.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="RunningManState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Objects\GameObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss1.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss1State.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss2.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss2State.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Objects\Bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Shield.h">
+      <Filter>Objects\Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Objects\Captain</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="TankState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="TwinBricks.h">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBoxState.h">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBox.h">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="GigiState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Gigi.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Elevator.h">
+      <Filter>Objects\StaticObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="Domesto.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="DomestoStayState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="DomestoWalkState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="BatState.h">
+      <Filter>Objects\Enemies</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
